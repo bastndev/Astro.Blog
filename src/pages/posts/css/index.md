@@ -1,15 +1,15 @@
 ---
 layout: "@layouts/Layoutmd.astro"
-title: HTML Structure
+title: CSS Structure
 date: 19 Mar 2024
 author: Gohit Bastian
 desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem hic libero non. Aspernatur eos, fuga odio ea nam nisi ullam rem numquam illum, sunt facere unde quis exercitationem sit.
-img: https://cdn.pixabay.com/photo/2019/08/19/20/18/artificial-intelligence-4417279_1280.jpg
+img: https://media.istockphoto.com/id/1363205770/es/foto/word-css-en-escritorio-de-madera-y-port%C3%A1til.jpg?s=1024x1024&w=is&k=20&c=ybEvZvLUjSjAgNYHt2mJF7IhqXCvPmNaB3JiE-ruLvY=
 ---
 
-# HTML  Structure
+# CSS  Structure
 
-![html](https://cdn.pixabay.com/photo/2019/08/19/20/18/artificial-intelligence-4417279_1280.jpg)
+![html](https://media.istockphoto.com/id/1363205770/es/foto/word-css-en-escritorio-de-madera-y-port%C3%A1til.jpg?s=1024x1024&w=is&k=20&c=ybEvZvLUjSjAgNYHt2mJF7IhqXCvPmNaB3JiE-ruLvY=)
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem hic libero non. Aspernatur eos, fuga odio ea nam nisi ullam rem numquam illum, sunt facere unde quis exercitationem sit.
 
