@@ -3,7 +3,7 @@ import Layout from "@layouts/Layout.astro";
 import Title from "@components/Title.astro";
 import BlogPreview from "@components/BlogPreview.astro";
 
-let allPost = await Astro.glob("./posts/**/*.md");
+let allPost = await Astro.glob("./posts/css/*.md");
 allPost = allPost.sort(
 	(date1, date2) =>
 		new Date(date1.frontmatter.date).valueOf() -
@@ -13,7 +13,7 @@ allPost = allPost.sort(
 
 <Layout title="Welcome to my Blog">
 	<Title
-		title="Home Page B "
+		title="Welcome to CSS"
 		title2="Blog 2024"
 		subtitle="Welcome to my projecto 2024, thans fow whatch"
 	/>
