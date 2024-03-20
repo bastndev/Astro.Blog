@@ -9,16 +9,16 @@ const { post } = Astro.props;
 <div class="card">
   <div class="content">
     <div class="leftSide">
-      <h2>{post.fromatter.title}</h2>
+      <h2>{post.frontmatter.title}</h2>
       <div>
-        <p>{post.fromatter.desc}</p>
-        <p>{post.fromatter.author}</p>
-        <p>{post.fromatter.date}</p>
+        <p>{post.frontmatter.desc}</p>
+        <p>{post.frontmatter.author}</p>
+        <p>{post.frontmatter.date}</p>
         <a href={post.url} class="btn"> Read Post</a>
       </div>
     </div>
-    <div class="rigthSide">
-      <img src={post.fromatter.image} alt="image" />
+    <div class="rightSide">
+      <img src={post.frontmatter.image} alt="image" />
     </div>
   </div>
 </div>

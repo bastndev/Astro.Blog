@@ -4,7 +4,7 @@ title: HTML Structure
 date: 19 Mar 2024
 author: Gohit Bastian
 desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem hic libero non. Aspernatur eos, fuga odio ea nam nisi ullam rem numquam illum, sunt facere unde quis exercitationem sit.
-img: https://cdn.pixabay.com/photo/2019/08/19/20/18/artificial-intelligence-4417279_1280.jpg
+image: https://cdn.pixabay.com/photo/2019/08/19/20/18/artificial-intelligence-4417279_1280.jpg
 ---
 
 # HTML  Structure
